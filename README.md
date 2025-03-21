@@ -1,7 +1,7 @@
 # AgroConnect
 
 ## 🌱 Overview
-**AgroConnect** is a smart and innovative platform designed to bridge the gap between farmers, suppliers, and buyers. Built using **React, Node.js, and SQL**, this system enhances agricultural trade, resource management, and knowledge sharing.
+**AgroConnect** is a smart and innovative platform designed to bridge the gap between farmers, suppliers, and buyers. Built using **React, Node.js, and MongoDB**, this system enhances agricultural trade, resource management, and knowledge sharing.
 
 ## 🎯 Features
 ### 🔹 Farmer Management
@@ -27,14 +27,14 @@
 ## 🛠️ Tech Stack
 - **Frontend:** React, Tailwind CSS
 - **Backend:** Node.js, Express.js
-- **Database:** MySQL / PostgreSQL
+- **Database:** MongoDB, Mongoose
 - **Authentication:** JWT / OAuth
 
 ## 🚀 Getting Started
 ### 🔧 Prerequisites
 Ensure you have the following installed:
 - Node.js
-- MySQL / PostgreSQL
+- MongoDB
 - Git
 
 ### 📥 Installation
@@ -49,7 +49,11 @@ Ensure you have the following installed:
    ```
 3. Set up the database:
    - Configure database credentials in `.env`.
-   - Run the migration script:
+   - Start MongoDB server:
+     ```bash
+     mongod
+     ```
+   - Seed initial data if necessary:
      ```bash
      node setupDB.js
      ```
@@ -80,7 +84,7 @@ agroconnect/
 │   │-- package.json    # Frontend dependencies
 │-- server/             # Backend directory
 │   │-- routes/         # Route handlers
-│   │-- models/         # Database schemas
+│   │-- models/         # MongoDB schemas (Mongoose)
 │   │-- controllers/    # Business logic
 │   │-- config/         # Configuration files
 │   │-- server.js       # Backend entry point
@@ -103,7 +107,7 @@ agroconnect/
 
 ## 🔒 Security Measures
 - **Data Encryption**: Passwords are hashed using bcrypt.
-- **Input Validation**: Prevent SQL injection & XSS attacks.
+- **Input Validation**: Prevent NoSQL injection & XSS attacks.
 - **Role-Based Access**: Users have different privileges.
 
 ## 📈 Future Enhancements
@@ -123,7 +127,7 @@ This project is licensed under the **MIT License**.
 ## 📬 Contact
 For any queries or contributions, reach out via:
 - 📧 Email: dubeytech9619@gmail.com
-- 🌐 GitHub: [https://github.com/Dubey411]
+- 🌐 GitHub: [Your GitHub Profile](https://github.com/Dubey411)
 
 ---
 ### 🚀 Let's revolutionize agriculture with technology! 🌾
