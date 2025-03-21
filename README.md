@@ -122,8 +122,8 @@ This project is licensed under the **MIT License**.
 
 ## 📬 Contact
 For any queries or contributions, reach out via:
-- 📧 Email: dubeytech9619@gmail.com.com
-- 🌐 GitHub: [Your GitHub Profile](https://github.com/Dubey411)
+- 📧 Email: dubeytech9619@gmail.com
+- 🌐 GitHub: [https://github.com/Dubey411]
 
 ---
 ### 🚀 Let's revolutionize agriculture with technology! 🌾
