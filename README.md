@@ -25,7 +25,7 @@
 - Role-based access control for different user types.
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript
+- **Frontend:** React.js/(HTML, CSS, JavaScript)
 - **Backend:** Node.js, Express.js
 - **Database:** MySQL / PostgreSQL
 - **Authentication:** JWT / OAuth
