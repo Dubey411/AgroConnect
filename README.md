@@ -1,7 +1,7 @@
 # AgroConnect
 
 ## 🌱 Overview
-**AgroConnect** is a smart and innovative platform designed to bridge the gap between farmers, suppliers, and buyers. Built using **Node.js, JavaScript, HTML, and SQL**, this system enhances agricultural trade, resource management, and knowledge sharing.
+**AgroConnect** is a smart and innovative platform designed to bridge the gap between farmers, suppliers, and buyers. Built using **React, Node.js, and SQL**, this system enhances agricultural trade, resource management, and knowledge sharing.
 
 ## 🎯 Features
 ### 🔹 Farmer Management
@@ -25,7 +25,7 @@
 - Role-based access control for different user types.
 
 ## 🛠️ Tech Stack
-- **Frontend:** React.js/(HTML, CSS, JavaScript)
+- **Frontend:** React, Tailwind CSS
 - **Backend:** Node.js, Express.js
 - **Database:** MySQL / PostgreSQL
 - **Authentication:** JWT / OAuth
@@ -53,11 +53,20 @@ Ensure you have the following installed:
      ```bash
      node setupDB.js
      ```
-4. Start the server:
+4. Start the backend server:
    ```bash
    npm start
    ```
-5. Access the system via:
+5. Navigate to the frontend directory and install dependencies:
+   ```bash
+   cd client
+   npm install
+   ```
+6. Start the React frontend:
+   ```bash
+   npm start
+   ```
+7. Access the system via:
    ```
    http://localhost:3000
    ```
@@ -65,14 +74,17 @@ Ensure you have the following installed:
 ## 📂 Project Structure
 ```
 agroconnect/
-│-- public/             # Static files (CSS, JS, images)
-│-- views/              # Frontend templates (HTML, EJS)
-│-- routes/             # Route handlers
-│-- models/             # Database schemas
-│-- controllers/        # Business logic
-│-- config/             # Configuration files
-│-- server.js           # Entry point
-│-- package.json        # Dependencies
+│-- client/             # React frontend
+│   │-- src/            # React components and pages
+│   │-- public/         # Static assets
+│   │-- package.json    # Frontend dependencies
+│-- server/             # Backend directory
+│   │-- routes/         # Route handlers
+│   │-- models/         # Database schemas
+│   │-- controllers/    # Business logic
+│   │-- config/         # Configuration files
+│   │-- server.js       # Backend entry point
+│   │-- package.json    # Backend dependencies
 │-- .env                # Environment variables
 ```
 
@@ -110,7 +122,7 @@ This project is licensed under the **MIT License**.
 
 ## 📬 Contact
 For any queries or contributions, reach out via:
-- 📧 Email: dubeytech9619@gmail.com
+- 📧 Email: dubeytech9619@gmail.com.com
 - 🌐 GitHub: [Your GitHub Profile](https://github.com/Dubey411)
 
 ---
