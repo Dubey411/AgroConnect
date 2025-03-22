@@ -40,7 +40,7 @@ Ensure you have the following installed:
 ### 📥 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/agroconnect.git
+   git clone https://github.com/Dubey411/agroconnect.git
    cd agroconnect
    ```
 2. Install dependencies:
@@ -127,7 +127,7 @@ This project is licensed under the **MIT License**.
 ## 📬 Contact
 For any queries or contributions, reach out via:
 - 📧 Email: dubeytech9619@gmail.com
-- 🌐 GitHub: [Your GitHub Profile](https://github.com/Dubey411)
+- 🌐 GitHub: [https://github.com/Dubey411]
 
 ---
 ### 🚀 Let's revolutionize agriculture with technology! 🌾
