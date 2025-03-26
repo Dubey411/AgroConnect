@@ -1,0 +1,194 @@
+{
+    "products": [
+      {
+        "product": "Potatoes",
+        "sellers": [
+          { "name": "AgroConnect", "price": 18 },
+          { "name": "BigBasket", "price": 20 },
+          { "name": "Amazon Pantry", "price": 19 },
+          { "name": "Blinkit", "price": 21 }
+        ],
+        "bestPrice": { "seller": "AgroConnect", "price": 18 }
+      },
+      {
+        "product": "Tomatoes",
+        "sellers": [
+          { "name": "AgroConnect", "price": 22 },
+          { "name": "BigBasket", "price": 25 },
+          { "name": "Amazon Pantry", "price": 24 },
+          { "name": "Blinkit", "price": 23 }
+        ],
+        "bestPrice": { "seller": "AgroConnect", "price": 22 }
+      },
+      {
+        "product": "Carrots",
+        "sellers": [
+          { "name": "AgroConnect", "price": 30 },
+          { "name": "BigBasket", "price": 32 },
+          { "name": "Amazon Pantry", "price": 31 },
+          { "name": "Blinkit", "price": 29 }
+        ],
+        "bestPrice": { "seller": "Blinkit", "price": 29 }
+      },
+      {
+        "product": "Onions",
+        "sellers": [
+          { "name": "AgroConnect", "price": 15 },
+          { "name": "BigBasket", "price": 17 },
+          { "name": "Amazon Pantry", "price": 16 },
+          { "name": "Blinkit", "price": 18 }
+        ],
+        "bestPrice": { "seller": "AgroConnect", "price": 15 }
+      },
+      {
+        "product": "Cauliflower",
+        "sellers": [
+          { "name": "AgroConnect", "price": 35 },
+          { "name": "BigBasket", "price": 38 },
+          { "name": "Amazon Pantry", "price": 36 },
+          { "name": "Blinkit", "price": 37 }
+        ],
+        "bestPrice": { "seller": "AgroConnect", "price": 35 }
+      },
+      {
+        "product": "Cabbage",
+        "sellers": [
+          { "name": "AgroConnect", "price": 28 },
+          { "name": "BigBasket", "price": 30 },
+          { "name": "Amazon Pantry", "price": 29 },
+          { "name": "Blinkit", "price": 27 }
+        ],
+        "bestPrice": { "seller": "Blinkit", "price": 27 }
+      },
+      {
+        "product": "Spinach",
+        "sellers": [
+          { "name": "AgroConnect", "price": 15 },
+          { "name": "BigBasket", "price": 18 },
+          { "name": "Amazon Pantry", "price": 17 },
+          { "name": "Blinkit", "price": 16 }
+        ],
+        "bestPrice": { "seller": "AgroConnect", "price": 15 }
+      },
+      {
+        "product": "Ginger",
+        "sellers": [
+          { "name": "AgroConnect", "price": 40 },
+          { "name": "BigBasket", "price": 42 },
+          { "name": "Amazon Pantry", "price": 41 },
+          { "name": "Blinkit", "price": 39 }
+        ],
+        "bestPrice": { "seller": "Blinkit", "price": 39 }
+      },
+      {
+        "product": "Garlic",
+        "sellers": [
+          { "name": "AgroConnect", "price": 50 },
+          { "name": "BigBasket", "price": 55 },
+          { "name": "Amazon Pantry", "price": 54 },
+          { "name": "Blinkit", "price": 52 }
+        ],
+        "bestPrice": { "seller": "AgroConnect", "price": 50 }
+      },
+      {
+        "product": "Peas",
+        "sellers": [
+          { "name": "AgroConnect", "price": 25 },
+          { "name": "BigBasket", "price": 27 },
+          { "name": "Amazon Pantry", "price": 26 },
+          { "name": "Blinkit", "price": 24 }
+        ],
+        "bestPrice": { "seller": "Blinkit", "price": 24 }
+      },
+      {
+        "product": "Bananas",
+        "sellers": [
+          { "name": "AgroConnect", "price": 10 },
+          { "name": "BigBasket", "price": 12 },
+          { "name": "Amazon Pantry", "price": 11 },
+          { "name": "Blinkit", "price": 9 }
+        ],
+        "bestPrice": { "seller": "Blinkit", "price": 9 }
+      },
+      {
+        "product": "Apples",
+        "sellers": [
+          { "name": "AgroConnect", "price": 100 },
+          { "name": "BigBasket", "price": 110 },
+          { "name": "Amazon Pantry", "price": 105 },
+          { "name": "Blinkit", "price": 102 }
+        ],
+        "bestPrice": { "seller": "AgroConnect", "price": 100 }
+      },
+      {
+        "product": "Lettuce",
+        "sellers": [
+          { "name": "AgroConnect", "price": 40 },
+          { "name": "BigBasket", "price": 45 },
+          { "name": "Amazon Pantry", "price": 43 },
+          { "name": "Blinkit", "price": 44 }
+        ],
+        "bestPrice": { "seller": "AgroConnect", "price": 40 }
+      },
+      {
+        "product": "Mangoes",
+        "sellers": [
+          { "name": "AgroConnect", "price": 80 },
+          { "name": "BigBasket", "price": 85 },
+          { "name": "Amazon Pantry", "price": 82 },
+          { "name": "Blinkit", "price": 83 }
+        ],
+        "bestPrice": { "seller": "AgroConnect", "price": 80 }
+      },
+      {
+        "product": "Beans",
+        "sellers": [
+          { "name": "AgroConnect", "price": 20 },
+          { "name": "BigBasket", "price": 22 },
+          { "name": "Amazon Pantry", "price": 21 },
+          { "name": "Blinkit", "price": 19 }
+        ],
+        "bestPrice": { "seller": "Blinkit", "price": 19 }
+      },
+      {
+        "product": "Pumpkin",
+        "sellers": [
+          { "name": "AgroConnect", "price": 35 },
+          { "name": "BigBasket", "price": 37 },
+          { "name": "Amazon Pantry", "price": 36 },
+          { "name": "Blinkit", "price": 34 }
+        ],
+        "bestPrice": { "seller": "Blinkit", "price": 34 }
+      },
+      {
+        "product": "Cucumbers",
+        "sellers": [
+          { "name": "AgroConnect", "price": 25 },
+          { "name": "BigBasket", "price": 28 },
+          { "name": "Amazon Pantry", "price": 27 },
+          { "name": "Blinkit", "price": 26 }
+        ],
+        "bestPrice": { "seller": "AgroConnect", "price": 25 }
+      },
+      {
+        "product": "Brinjal",
+        "sellers": [
+          { "name": "AgroConnect", "price": 30 },
+          { "name": "BigBasket", "price": 33 },
+          { "name": "Amazon Pantry", "price": 32 },
+          { "name": "Blinkit", "price": 31 }
+        ],
+        "bestPrice": { "seller": "AgroConnect", "price": 30 }
+      },
+      {
+        "product": "Sweet Corn",
+        "sellers": [
+          { "name": "AgroConnect", "price": 50 },
+          { "name": "BigBasket", "price": 55 },
+          { "name": "Amazon Pantry", "price": 52 },
+          { "name": "Blinkit", "price": 51 }
+        ],
+        "bestPrice": { "seller": "AgroConnect", "price": 50 }
+      }
+    ]
+    }
